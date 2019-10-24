@@ -8,7 +8,7 @@ from vector import add, sub, mult, punto, normalizar
 
 # Constants
 WIDTH = 800
-RAYOS_AMT = 100
+RAYOS_AMT = 200
 CAMPO_VISTA = math.pi / 4
 DELT_ANG = CAMPO_VISTA / RAYOS_AMT
 SIZE_TALL = 25
